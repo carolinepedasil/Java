@@ -12,7 +12,7 @@
 |                                       | Certificação Java SE 7 Programmer I: Conteúdo além da prova            | 10h           |           |
 | Java e Orientação a Objetos           |                                                                        |               |           |
 |                                       | Java JRE e JDK: Escreva o seu primeiro código com Eclipse              | 8h            | ✅        |
-|                                       | Java OO: Introdução à Orientação a Objetos                             | 8h            |           |
+|                                       | Java OO: Introdução à Orientação a Objetos                             | 8h            | ✅        |
 |                                       | Java Polimorfismo: Entenda herança e interfaces                        | 16h           |           |
 |                                       | Java Exceções: Aprenda a criar, lançar e controlar exceções            | 12h           |           |
 |                                       | Java e java.lang: Programe com a classe Object e String                | 12h           |           |
