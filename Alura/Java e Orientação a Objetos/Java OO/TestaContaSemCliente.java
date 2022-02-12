@@ -6,7 +6,7 @@ public class TestaContaSemCliente {
 		contaDaCarol.setTitular(new Cliente());
 		System.out.println(contaDaCarol.getTitular());
 
-		contaDaCarol.getTitular().setNome("Marcela");
+		contaDaCarol.getTitular().setNome("Carol");
 		System.out.println(contaDaCarol.getTitular().getNome());
 
 	}
