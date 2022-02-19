@@ -2,7 +2,7 @@
 | ------------------------------------- | ---------------------------------------------------------------------- | ------------- | --------- |
 | Certificação Java                     |                                                                        |               |           |
 |                                       | Certificação Java SE 7 Programmer I: O básico de Java                  | 8h            | ✅        |
-|                                       | Certificação Java SE 7 Programmer I: Tipos de Dados                    | 8h            |           |
+|                                       | Certificação Java SE 7 Programmer I: Tipos de Dados                    | 8h            | ✅        |
 |                                       | Certificação Java SE 7 Programmer I: Operadores                        | 8h            |           |
 |                                       | Certificação Java SE 7 Programmer I: Criando e usando Arrays           | 8h            |           |
 |                                       | Certificação Java SE 7 Programmer I: Laços                             | 8h            |           |
