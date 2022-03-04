@@ -1,5 +1,5 @@
 public class TestaComparacaoStrings {
-    public public static void main(String[] args) {
+    public static void main(String[] args) {
         String nome1 = new String("Caroline");
         String nome2 = new String("Caroline");
         System.out.println(nome1 == nome2); //false
