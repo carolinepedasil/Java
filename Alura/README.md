@@ -37,3 +37,16 @@
 |                                       | BDD e Java: Behavior Driven Development com Cucumber                   | 10h           |           |
 |                                       | Java e Clean Architecture: Descomplicando arquitetura de software      | 10h           |           |
 |                                       | Java e Domain Driven Design: Apresentando os conceitos                 | 8h            |           |
+| Spring Framework                      |                                                                        |               |           |
+|                                       | Java Servlet: Fundamentos da programação web Java                      | 10h           |           |
+|                                       | Java Servlet: Autenticação, autorização e o padrão MVC                 | 14h           |           |
+|                                       | Maven: Gerenciamento de dependências e build de aplicações Java        | 8h            |           |
+|                                       | Java e JDBC: Trabalhando com um banco de dados                         | 12h           |           |
+|                                       | Persistência com JPA: Introdução ao Hibernate                          | 8h            |           |
+|                                       | Java e JPA: Consultas avançadas, performance e modelos complexos       | 10h           |           |
+|                                       | Spring Data JPA: Repositórios, Consultas, Projeções e Specifications   | 10h           |           |
+|                                       | Spring MVC: Crie um web app com Thymeleaf e Bootstrap                  | 12h           |           |
+|                                       | Spring MVC: Autenticação com Spring Security, API Rest e AJAX          | 10h           |           |
+|                                       | Spring Boot API REST: Construa uma API                                 | 8h            |           |
+|                                       | Spring Boot API Rest: Segurança da API, Cache e Monitoramento          | 12h           |           |
+|                                       | Spring Boot e Teste: Profiles, Testes e Deploy                         | 8h            |           |
