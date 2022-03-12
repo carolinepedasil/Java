@@ -25,7 +25,7 @@
 |                                       | JAX-RS e Jersey : Domine a criação de webservices REST                 | 12h           |           |
 |                                       | JAX-WS : Domine a criação de webservices SOAP                          | 16h           |           |
 |                                       | JMS e ActiveMQ: Mensageria com Java                                    | 16h           |           |
-|                                       | Apache Camel: O framework de integração entre sistemas                 | 16h           |           |
+|                                       | Apache Camel: O framework de integração entre sistemas                 | 16h           | ✅        |
 |                                       | Rest Assured: Testes automatizado de webservice                        | 12h           |           |
 | Arquitetura e Design de Projetos Java |                                                                        |               |           |
 |                                       | SOLID com Java: Princípios da programação orientada a objetos          | 8h            |           |
