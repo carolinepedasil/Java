@@ -31,7 +31,7 @@
 |                                       | SOLID com Java: Princípios da programação orientada a objetos          | 8h            |           |
 |                                       | Design Patterns em Java I: Introdução às boas práticas de programação  | 8h            |           |
 |                                       | Design Patterns em Java II: Avançando nas boas práticas de programação | 6h            |           |
-|                                       | TDD e Java: Testes automatizados com JUnit                             | 8h            |           |
+|                                       | TDD e Java: Testes automatizados com JUnit                             | 8h            | ✅        |
 |                                       | Testes de Integração: Testes de SQL e DAOs automatizados em Java       | 6h            |           |
 |                                       | Selenium: Testes automatizados de aceitação em Java                    | 8h            |           |
 |                                       | BDD e Java: Behavior Driven Development com Cucumber                   | 10h           |           |
