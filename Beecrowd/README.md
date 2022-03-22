@@ -1,13 +1,13 @@
 # Beecrowd (URI Online Judge)
 
-|                                #                                |                   Nome                   | Conclusão |
-| --------------------------------------------------------------- | ---------------------------------------- | --------- |
+|                                #                                |                                               Nome                                               | Conclusão |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------- |
 | [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) | [Hello World!](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1000.java)        | ✅        |
 | [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | [Extremamente Básico](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1001.java) | ✅        |
 | [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [Área do Círculo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1002.java)     | ✅        |
 | [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | [Soma Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1003.java)        | ✅        |
 | [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [Produto Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1004.java)     | ✅        |
-| [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | Média 1                                  |           |
+| [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [Média 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1005.java)             | ✅        |
 | [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | Média 2                                  |           |
 | [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença                                |           |
 | [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | Salário                                  |           |
