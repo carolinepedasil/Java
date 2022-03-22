@@ -8,7 +8,7 @@
 | [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | [Soma Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1003.java)        | ✅        |
 | [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [Produto Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1004.java)     | ✅        |
 | [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [Média 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1005.java)             | ✅        |
-| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | Média 2                                  |           |
+| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | [Média 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1006.java)             | ✅        |
 | [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença                                |           |
 | [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | Salário                                  |           |
 | [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | Salário com Bônus                        |           |
