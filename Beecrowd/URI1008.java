@@ -30,6 +30,8 @@ public class URI1008 {
         
         System.out.println("NUMBER = " + funcionarios);
         System.out.println(String.format("SALARY = U$ %.2f" , salario));
+
+        sc.close();
     }
  
 }
