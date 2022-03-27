@@ -15,7 +15,7 @@ import java.util.Scanner;
     O valor deverá ser apresentado com 2 casas após o ponto.
 */
 
-public class Main {
+public class URI1010 {
  
     public static void main(String[] args) throws IOException {
  
