@@ -27,13 +27,18 @@ public class ActiveMqReceiverRouter extends RouteBuilder {
 		//CurrencyExchange (Exemplo)
 		//{ "id": 1000, "from": "USD", "INR", "conversionMultiple": 70}
 		
-		from("activemq:my-activemq-queue")
-		//mapeando para um bean específico é chamado de "unmarshal"
+//		from("activemq:my-activemq-queue")
+//		//mapeando para um bean específico é chamado de "unmarshal"
+//		.unmarshal()
+//		.json(JsonLibrary.Jackson, CurrencyExchange.class)
+//		.bean(myCurrencyExchangeProcessor)
+//		.bean(myCurrencyExchangeTransformer) //transformation
+//		.to("log:received-message-from-active-mq"); //a cada 10 segundos receberá uma mensagem
+		
+		from("activemq:my-activemq-xml-queue")
 		.unmarshal()
-		.json(JsonLibrary.Jackson, CurrencyExchange.class)
-		.bean(myCurrencyExchangeProcessor)
-		.bean(myCurrencyExchangeTransformer) //transformation
-		.to("log:received-message-from-active-mq"); //a cada 10 segundos receberá uma mensagem
+		.jacksonXml(CurrencyExchange.class)
+		.to("log:received-message-from-active-mq");
 		
 	}
 	

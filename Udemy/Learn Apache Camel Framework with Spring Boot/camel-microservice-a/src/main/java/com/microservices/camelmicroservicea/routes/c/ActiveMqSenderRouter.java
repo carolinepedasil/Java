@@ -4,7 +4,7 @@ import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
 
 @Component
-public class ActiveMqSenderRouter extends RouteBuilder {
+public class ActiveMqSenderRouter extends RouteBuilder { //pode trocar o nome para JsonSenderRouter se quiser
 
 	@Override
 	public void configure() throws Exception {
@@ -17,10 +17,14 @@ public class ActiveMqSenderRouter extends RouteBuilder {
 		//queue
 		
 		//timer
-		from("file:files/json")
-		.log("${body}")
-		.to("activemq:my-activemq-queue");
+//		from("file:files/json")
+//		.log("${body}")
+//		.to("activemq:my-activemq-queue");
 		//queue
+		
+		from("file:files/xml")
+		.log("${body}")
+		.to("activemq:my-activemq-xml-queue");
 		
 	}
 
