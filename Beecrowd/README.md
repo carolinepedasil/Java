@@ -17,7 +17,7 @@
 | [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | [Área](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1012.java)                | ✅        |
 | [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [O Maior](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1013.java)             | ✅        |
 | [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [Consumo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1014.java)             | ✅        |
-| [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | Distância Entre Dois Pontos              |           |
+| [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [Distância Entre Dois Pontos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1015.java) | ✅        |
 | [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | Distância                                |           |
 | [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | Gasto de Combustível                     |           |
 | [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | Cédulas                                  |           |
