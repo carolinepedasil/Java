@@ -20,7 +20,7 @@
 | [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [Distância Entre Dois Pontos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1015.java) | ✅        |
 | [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | [Distância](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1016.java)            | ✅        |
 | [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | [Gasto de Combustível](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1017.java) | ✅        |
-| [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | Cédulas                                  |           |
+| [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [Cédulas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1018.java)              | ✅        |
 | [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | Conversão de Tempo                       |           |
 | [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | Idade em Dias                            |           |
 | [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | Notas e Moedas                           |           |
