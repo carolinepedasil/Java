@@ -20,8 +20,16 @@ public class FileRouter extends RouteBuilder {
 				.log("Not an XML FILE") //body
 		.end()
 //		.log("${body}")
-		.log("${messageHistory} ${file:absolute.path}")
+//		.log("${messageHistory} ${file:absolute.path}")
+		.to("direct://log-file-values")
 		.to("file:files/output"); //será movido para esta pasta
+		
+		//rota direta - reusable route (rota reusável)
+		from("direct://log-file-values")
+		.log("${messageHistory} ${file:absolute.path}")
+		.log("${file:name} {file:name.ext} {file:name.noext} {file:onlyname}")
+		.log("{file:size} {file:modified}")
+		.log("${routeId} ${camelId} ${body}");
 	}
 
 }
