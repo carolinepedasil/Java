@@ -44,7 +44,6 @@ public class MessageReceiverRouter extends RouteBuilder {
 	
 }
 
-/*
 @Component
 class MyCurrencyExchangeProcessor {
 	
@@ -77,4 +76,3 @@ class MyCurrencyExchangeTransformer {
 	}
 
 }
-*/
