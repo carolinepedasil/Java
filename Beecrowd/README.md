@@ -23,7 +23,7 @@
 | [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [Cédulas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1018.java)              | ✅        |
 | [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | [Conversão de Tempo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1019.java)   | ✅        |
 | [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1020.java)        | ✅        |
-| [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | Notas e Moedas                           |           |
+| [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1021.java)       | ✅        |
 | [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | TDA Racional                             |           |
 | [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | Estiagem                                 |           |
 | [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | Criptografia                             |           |
