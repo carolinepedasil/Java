@@ -37,8 +37,8 @@
 | [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) | O Primo de Josephus                      |           |
 | [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) | Quantas Chamadas Recursivas?             |           |
 | [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) | Festival de Estátuas de Gelo             |           |
-| [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1021.java)   | ✅        |
-| [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | Fórmula de Bhaskara                      |           |
+| [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1035.java)   | ✅        |
+| [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1036.java)  | ✅        |
 | [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | Intervalo                                |           |
 | [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | Lanche                                   |           |
 | [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) | Flores de Fogo                           |           |
