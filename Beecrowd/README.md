@@ -39,7 +39,7 @@
 | [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) | Festival de Estátuas de Gelo             |           |
 | [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1035.java)   | ✅        |
 | [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1036.java)  | ✅        |
-| [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | Intervalo                                |           |
+| [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1037.java)            | ✅        |
 | [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | Lanche                                   |           |
 | [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) | Flores de Fogo                           |           |
 | [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) | Média 3                                  |           |
