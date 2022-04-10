@@ -24,23 +24,10 @@
 | [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | [Conversão de Tempo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1019.java)   | ✅        |
 | [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1020.java)        | ✅        |
 | [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1021.java)       | ✅        |
-| [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | TDA Racional                             |           |
-| [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | Estiagem                                 |           |
-| [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | Criptografia                             |           |
-| [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | Onde está o Mármore?                     |           |
-| [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) | Carrega ou não Carrega?                  |           |
-| [1027](https://www.beecrowd.com.br/judge/pt/problems/view/1027) | Onda Crítica                             |           |
-| [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) | Figurinhas                               |           |
-| [1029](https://www.beecrowd.com.br/judge/pt/problems/view/1029) | Fibonacci, Quantas Chamadas?             |           |
-| [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) | A Lenda de Flavious Josephus             |           |
-| [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) | Crise de Energia                         |           |
-| [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) | O Primo de Josephus                      |           |
-| [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) | Quantas Chamadas Recursivas?             |           |
-| [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) | Festival de Estátuas de Gelo             |           |
 | [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1035.java)   | ✅        |
 | [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1036.java)  | ✅        |
 | [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1037.java)            | ✅        |
-| [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | Lanche                                   |           |
+| [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | [Lanche](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1038.java)               | ✅        |
 | [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) | Flores de Fogo                           |           |
 | [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) | Média 3                                  |           |
 | [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) | Coordenadas de um Ponto                  |           |
