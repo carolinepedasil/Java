@@ -1,7 +1,7 @@
 # Beecrowd (URI Online Judge)
 
-|                                #                                |                                               Nome                                                | Conclusão |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- |
+|                                #                                |                                                   Nome                                                   | Conclusão |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------- |
 | [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) | [Hello World!](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1000.java)                | ✅        |
 | [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | [Extremamente Básico](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1001.java)         | ✅        |
 | [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [Área do Círculo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1002.java)             | ✅        |
@@ -29,7 +29,7 @@
 | [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1037.java)                   | ✅        |
 | [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | [Lanche](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1038.java)                      | ✅        |
 | [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) | [Média 3](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1040.java)                     | ✅        |
-| [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) | Coordenadas de um Ponto                  |           |
+| [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) | [Coordenadas de um Ponto](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1041.java)     | ✅        |
 | [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) | Sort Simples                             |           |
 | [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) | Triângulo                                |           |
 | [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) | Múltiplos                                |           |
