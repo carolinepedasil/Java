@@ -2,34 +2,33 @@
 
 |                                #                                |                                               Nome                                                | Conclusão |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- |
-| [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) | [Hello World!](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1000.java)         | ✅        |
-| [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | [Extremamente Básico](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1001.java)  | ✅        |
-| [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [Área do Círculo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1002.java)      | ✅        |
-| [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | [Soma Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1003.java)         | ✅        |
-| [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [Produto Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1004.java)      | ✅        |
-| [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [Média 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1005.java)              | ✅        |
-| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | [Média 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1006.java)              | ✅        |
-| [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | [Diferença](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1007.java)            | ✅        |
-| [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | [Salário](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1008.java)              | ✅        |
-| [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | [Salário com Bônus](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1009.java)    | ✅        |
-| [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | [Cálculo Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1010.java)      | ✅        |
-| [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | [Esfera](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1011.java)               | ✅        |
-| [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | [Área](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1012.java)                 | ✅        |
-| [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [O Maior](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1013.java)              | ✅        |
-| [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [Consumo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1014.java)              | ✅        |
+| [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) | [Hello World!](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1000.java)                | ✅        |
+| [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | [Extremamente Básico](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1001.java)         | ✅        |
+| [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [Área do Círculo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1002.java)             | ✅        |
+| [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | [Soma Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1003.java)                | ✅        |
+| [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [Produto Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1004.java)             | ✅        |
+| [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [Média 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1005.java)                     | ✅        |
+| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | [Média 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1006.java)                     | ✅        |
+| [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | [Diferença](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1007.java)                   | ✅        |
+| [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | [Salário](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1008.java)                     | ✅        |
+| [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | [Salário com Bônus](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1009.java)           | ✅        |
+| [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | [Cálculo Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1010.java)             | ✅        |
+| [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | [Esfera](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1011.java)                      | ✅        |
+| [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | [Área](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1012.java)                        | ✅        |
+| [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [O Maior](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1013.java)                     | ✅        |
+| [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [Consumo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1014.java)                     | ✅        |
 | [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [Distância Entre Dois Pontos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1015.java) | ✅        |
-| [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | [Distância](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1016.java)            | ✅        |
-| [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | [Gasto de Combustível](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1017.java) | ✅        |
-| [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [Cédulas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1018.java)              | ✅        |
-| [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | [Conversão de Tempo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1019.java)   | ✅        |
-| [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1020.java)        | ✅        |
-| [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1021.java)       | ✅        |
-| [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1035.java)   | ✅        |
-| [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1036.java)  | ✅        |
-| [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1037.java)            | ✅        |
-| [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | [Lanche](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1038.java)               | ✅        |
-| [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) | Flores de Fogo                           |           |
-| [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) | Média 3                                  |           |
+| [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | [Distância](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1016.java)                   | ✅        |
+| [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | [Gasto de Combustível](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1017.java)        | ✅        |
+| [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [Cédulas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1018.java)                     | ✅        |
+| [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | [Conversão de Tempo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1019.java)          | ✅        |
+| [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1020.java)               | ✅        |
+| [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1021.java)              | ✅        |
+| [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1035.java)          | ✅        |
+| [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1036.java)         | ✅        |
+| [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1037.java)                   | ✅        |
+| [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | [Lanche](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1038.java)                      | ✅        |
+| [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) | [Média 3](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1040.java)                     | ✅        |
 | [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) | Coordenadas de um Ponto                  |           |
 | [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) | Sort Simples                             |           |
 | [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) | Triângulo                                |           |
