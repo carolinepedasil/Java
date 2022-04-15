@@ -30,8 +30,8 @@
 | [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) | [Lanche](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1038.java)                      | ✅        |
 | [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) | [Média 3](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1040.java)                     | ✅        |
 | [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) | [Coordenadas de um Ponto](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1041.java)     | ✅        |
-| [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) | [Sort Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1042.java)     | ✅        |
-| [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) | Triângulo                                |           |
+| [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) | [Sort Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1042.java)                | ✅        |
+| [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) | [Triângulo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1043.java)                   | ✅        |
 | [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) | Múltiplos                                |           |
 | [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) | Tipos de Triângulos                      |           |
 | [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) | Tempo de Jogo                            |           |
