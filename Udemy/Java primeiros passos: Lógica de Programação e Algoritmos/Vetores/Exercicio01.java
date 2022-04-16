@@ -4,6 +4,21 @@ import java.util.Scanner;
 /*
     Fazer um programa para ler um número inteiro positivo N, depois ler N números quaisquer e armazená-los em um vetor. 
     Em seguida, mostrar na tela todos elementos do vetor.
+
+    Exemplo:
+
+    Entrada:
+    4 
+    10.5 
+    4.2 
+    -7.1 
+    15.0
+
+    Saída:
+    10.5 
+    4.2 
+    -7.1 
+    15.0
 */
 
 public class Exercicio01 {
