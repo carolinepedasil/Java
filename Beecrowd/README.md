@@ -33,7 +33,7 @@
 | [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) | [Sort Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1042.java)                | ✅        |
 | [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) | [Triângulo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1043.java)                   | ✅        |
 | [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) | [Múltiplos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1044.java)                   | ✅        |
-| [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) | Tipos de Triângulos                      |           |
+| [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) | [Tipos de Triângulos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1045.java)         | ✅        |
 | [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) | Tempo de Jogo                            |           |
 | [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) | Tempo de Jogo com Minutos                |           |
 | [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) | Aumento de Salário                       |           |
