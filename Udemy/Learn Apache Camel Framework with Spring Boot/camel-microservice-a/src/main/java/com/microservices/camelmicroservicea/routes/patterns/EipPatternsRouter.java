@@ -67,7 +67,7 @@ public class EipPatternsRouter extends RouteBuilder {
 		
 		//Step 1, Step 2, Step 3
 		
-		from("timer:dynamicRouting?period=10000")
+		from("timer:dynamicRouting?period={{timePeriod}}")
 		.transform().constant("My Message is Hardcoded")
 		.dynamicRouter(method(dynamicRouterBean);
 		
@@ -77,7 +77,7 @@ public class EipPatternsRouter extends RouteBuilder {
 		
 		
 		from("direct:endpoint1")
-		.to("log:directendpoint1");
+		.to("{{endpoint-for-logging}}");
 		
 		from("direct:endpoint2")
 		.to("log:directendpoint2");
