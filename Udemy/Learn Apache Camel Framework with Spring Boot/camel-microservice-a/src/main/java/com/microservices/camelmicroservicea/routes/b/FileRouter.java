@@ -21,6 +21,7 @@ public class FileRouter extends RouteBuilder {
 	public void configure() throws Exception {
 		
 		//Pipeline
+		
 		from("file:files/input") //pastas em que os arquivos estarão
 		//.pipeline()
 		.routeId("Files-Input-Route")

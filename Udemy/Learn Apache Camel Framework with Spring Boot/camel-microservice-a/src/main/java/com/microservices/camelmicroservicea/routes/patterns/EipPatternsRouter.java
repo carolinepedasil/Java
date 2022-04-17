@@ -13,23 +13,24 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component
-public class EipPatternsRouter extends RouteBuilder {
-	
+import com.microservices.camelmicroservicea.CurrencyExchange;
+
+///@Component
+public class EipPatternsRouter extends RouteBuilder{
 	
 
 	@Autowired
 	SplitterComponent splitter;
 	
+	
 	@Autowired
 	DynamicRouterBean dynamicRouterBean;
-	
+
 	@Override
 	public void configure() throws Exception {
-			
+
 		getContext().setTracing(true);
 		
-		//nenhuma mensagem será perdida:
 		errorHandler(deadLetterChannel("activemq:dead-letter-queue"));
 		
 		//Pipeline
@@ -57,12 +58,12 @@ public class EipPatternsRouter extends RouteBuilder {
 		//to , 3
 		from("file:files/aggregate-json")
 		.unmarshal().json(JsonLibrary.Jackson, CurrencyExchange.class)
-		.aggregate(simple("{body.to}"), new ArrayListAggregationStrategy())
+		.aggregate(simple("${body.to}"), new ArrayListAggregationStrategy())
 		.completionSize(3)
-//		.completionTimeout(HIGHEST)
+		//.completionTimeout(HIGHEST)
 		.to("log:aggregate-json");
 		
-		String routingSlip = "direct:endpoint1,direct:endpoint2,direct:endpoint3";
+		String routingSlip = "direct:endpoint1,direct:endpoint3";
 		//String routingSlip = "direct:endpoint1,direct:endpoint2,direct:endpoint3";
 		
 //		from("timer:routingSlip?period=10000")
@@ -75,7 +76,7 @@ public class EipPatternsRouter extends RouteBuilder {
 		
 		from("timer:dynamicRouting?period={{timePeriod}}")
 		.transform().constant("My Message is Hardcoded")
-		.dynamicRouter(method(dynamicRouterBean);
+		.dynamicRouter(method(dynamicRouterBean));
 		
 		//Endpoint1
 		//Endpoint2
@@ -84,10 +85,10 @@ public class EipPatternsRouter extends RouteBuilder {
 		from("direct:endpoint1")
 		.wireTap("log:wire-tap") //add
 		.to("{{endpoint-for-logging}}");
-		
+
 		from("direct:endpoint2")
 		.to("log:directendpoint2");
-		
+
 		from("direct:endpoint3")
 		.to("log:directendpoint3");
 		
@@ -103,16 +104,16 @@ public class EipPatternsRouter extends RouteBuilder {
 @Component
 class SplitterComponent{
 	public List<String> splitInput(String body){
-		return List.of("ABC", "DEF", "GHI"); //exemplo
+		return List.of("ABC", "DEF", "GHI");
 	}
 }
 
 @Component
-class DynamicRouterBea{
+class DynamicRouterBean{
 	
 	Logger logger = LoggerFactory.getLogger(DynamicRouterBean.class);
 	
-	int invocations;
+	int invocations ;
 	
 	public String decideTheNextEndpoint(
 				@ExchangeProperties Map<String, String> properties,
@@ -120,14 +121,17 @@ class DynamicRouterBea{
 				@Body String body
 			) {
 		logger.info("{} {} {}", properties, headers, body);
+		
 		invocations++;
 		
 		if(invocations%3==0)
 			return "direct:endpoint1";
+		
 		if(invocations%3==1)
 			return "direct:endpoint2,direct:endpoint3";
 		
 		return null;
+			
 		
 	}
 }
