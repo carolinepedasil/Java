@@ -40,7 +40,7 @@
 | [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) | [Animal](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1049.java)                      | ✅        |
 | [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) | [DDD](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1050.java)                         | ✅        |
 | [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) | [Imposto de Renda](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1051.java)            | ✅        |
-| [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) | Mês                                      |           |
+| [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) | [Mês](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1052.java)                         | ✅        |
 | [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) | Desenho Contínuo                         |           |
 | [1054](https://www.beecrowd.com.br/judge/pt/problems/view/1054) | Apo Dinâmico                             |           |
 | [1055](https://www.beecrowd.com.br/judge/pt/problems/view/1055) | Soma Permutada Elegante                  |           |
