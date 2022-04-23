@@ -39,7 +39,7 @@
 | [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) | [Aumento de Salário](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1048.java)          | ✅        |
 | [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) | [Animal](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1049.java)                      | ✅        |
 | [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) | [DDD](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1050.java)                         | ✅        |
-| [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) | Imposto de Renda                         |           |
+| [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) | [Imposto de Renda](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1051.java)            | ✅        |
 | [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) | Mês                                      |           |
 | [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) | Desenho Contínuo                         |           |
 | [1054](https://www.beecrowd.com.br/judge/pt/problems/view/1054) | Apo Dinâmico                             |           |
