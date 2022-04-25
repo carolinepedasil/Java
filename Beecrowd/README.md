@@ -41,13 +41,7 @@
 | [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) | [DDD](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1050.java)                         | ✅        |
 | [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) | [Imposto de Renda](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1051.java)            | ✅        |
 | [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) | [Mês](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1052.java)                         | ✅        |
-| [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) | Desenho Contínuo                         |           |
-| [1054](https://www.beecrowd.com.br/judge/pt/problems/view/1054) | Apo Dinâmico                             |           |
-| [1055](https://www.beecrowd.com.br/judge/pt/problems/view/1055) | Soma Permutada Elegante                  |           |
-| [1056](https://www.beecrowd.com.br/judge/pt/problems/view/1056) | Fatores e Múltiplos                      |           |
-| [1057](https://www.beecrowd.com.br/judge/pt/problems/view/1057) | Chegando Junto                           |           |
-| [1058](https://www.beecrowd.com.br/judge/pt/problems/view/1058) | Zonas de Ataque Independentes            |           |
-| [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) | Números Pares                            |           |
+| [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) | [Números Pares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1059.java)               | ✅        |
 | [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) | Números Positivos                        |           |
 | [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) | Tempo de um Evento                       |           |
 | [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) | Trilhos                                  |           |
