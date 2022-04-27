@@ -44,9 +44,7 @@
 | [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) | [Números Pares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1059.java)               | ✅        |
 | [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) | [Números Positivos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1060.java)           | ✅        |
 | [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) | Tempo de um Evento                       |           |
-| [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) | Trilhos                                  |           |
-| [1063](https://www.beecrowd.com.br/judge/pt/problems/view/1063) | Trilhos Novamente... Traçando Movimentos |           |
-| [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) | Positivos e Média                        |           |
+| [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) | [Positivos e Média](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1064.java)           | ✅        |
 | [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) | Pares entre Cinco Números                |           |
 | [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) | Pares, Ímpares, Positivos e Negativos    |           |
 | [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) | Números Ímpares                          |           |
