@@ -48,9 +48,7 @@
 | [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) | [Pares entre Cinco Números](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1065.java)             | ✅        |
 | [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) | [Pares, Ímpares, Positivos e Negativos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1066.java) | ✅        |
 | [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) | [Números Ímpares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1067.java)                       | ✅        |
-| [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | Balanço de Parênteses I                  |           |
-| [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) | Diamantes e Areia                        |           |
-| [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) | Seis Números Ímpares                     |           |
+| [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) | [Seis Números Ímpares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1068.java)                  | ✅        |
 | [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) | Soma de Impares Consecutivos I           |           |
 | [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) | Intervalo 2                              |           |
 | [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) | Quadrado de Pares                        |           |
