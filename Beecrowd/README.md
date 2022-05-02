@@ -50,7 +50,7 @@
 | [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) | [Números Ímpares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1067.java)                       | ✅        |
 | [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) | [Seis Números Ímpares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1070.java)                  | ✅        |
 | [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) | [Soma de Impares Consecutivos I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1071.java)        | ✅        |
-| [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) | Intervalo 2                              |           |
+| [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) | [Intervalo 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1072.java)                           | ✅        |
 | [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) | Quadrado de Pares                        |           |
 | [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) | Par ou Ímpar                             |           |
 | [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | Resto 2                                  |           |
