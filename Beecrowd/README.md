@@ -53,7 +53,7 @@
 | [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) | [Intervalo 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1072.java)                           | ✅        |
 | [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) | [Quadrado de Pares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1073.java)                     | ✅        |
 | [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) | [Par ou Ímpar](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1074.java)                          | ✅        |
-| [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | Resto 2                                  |           |
+| [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | [Resto 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1075.java)                               | ✅        |
 | [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) | Desenhando Labirintos                    |           |
 | [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) | Infixa para Posfixa                      |           |
 | [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) | Tabuada                                  |           |
