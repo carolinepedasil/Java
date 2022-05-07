@@ -54,10 +54,8 @@
 | [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) | [Quadrado de Pares](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1073.java)                     | ✅        |
 | [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) | [Par ou Ímpar](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1074.java)                          | ✅        |
 | [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | [Resto 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1075.java)                               | ✅        |
-| [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) | [Desenhando Labirintos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1076.java)                               | ✅        |
-| [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) | Infixa para Posfixa                      |           |
-| [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) | Tabuada                                  |           |
-| [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) | Médias Ponderadas                        |           |
+| [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) | [Tabuada](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1078.java)                               | ✅        |
+| [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) | [Médias Ponderadas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1079.java)                     | ✅        |
 | [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) | Maior e Posição                          |           |
 | [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) | DFSr - Hierarquia de Profundidade        |           |
 | [1082](https://www.beecrowd.com.br/judge/pt/problems/view/1082) | Componentes Conexos                      |           |
