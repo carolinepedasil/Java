@@ -57,21 +57,8 @@
 | [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) | [Tabuada](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1078.java)                               | ✅        |
 | [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) | [Médias Ponderadas](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1079.java)                     | ✅        |
 | [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) | [Maior e Posição](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1080.java)                       | ✅        |
-| [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) | DFSr - Hierarquia de Profundidade        |           |
-| [1082](https://www.beecrowd.com.br/judge/pt/problems/view/1082) | Componentes Conexos                      |           |
-| [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) | LEXSIM - Avaliador Lexico e Sintático    |           |
-| [1084](https://www.beecrowd.com.br/judge/pt/problems/view/1084) | Apagando e Ganhando                      |           |
-| [1085](https://www.beecrowd.com.br/judge/pt/problems/view/1085) | Babel                                    |           |
-| [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) | O Salão do Club                          |           |
-| [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) | Dama                                     |           |
-| [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) | Bolhas e Baldes                          |           |
-| [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) | Loop Musical                             |           |
-| [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) | Set                                      |           |
-| [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) | Divisão da Nlogônia                      |           |
-| [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) | Maior Subseqüência Crescente             |           |
-| [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) | Vampiros                                 |           |
 | [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) | Experiências                             |           |
-| [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) | Sequencia IJ 1                           |           |
+| [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) | [Sequencia IJ 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1095.java)                       | ✅        |
 | [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) | Sequencia IJ 2                           |           |
 | [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) | Sequencia IJ 3                           |           |
 | [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | Sequencia IJ 4                           |           |
