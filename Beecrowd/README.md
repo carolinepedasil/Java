@@ -61,5 +61,5 @@
 | [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) | [Sequencia IJ 1](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1095.java)                        | ✅        |
 | [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) | [Sequencia IJ 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1096.java)                        | ✅        |
 | [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) | [Sequencia IJ 3](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1097.java)                        | ✅        |
-| [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | Sequencia IJ 4                           |           |
+| [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | [Sequencia IJ 4](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1098.java)                        | ✅        |
 | [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) | Soma de Ímpares Consecutivos II          |           |
