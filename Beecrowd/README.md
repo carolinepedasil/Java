@@ -64,7 +64,7 @@
 | [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) | [Sequencia IJ 3](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1097.java)                        | ✅        |
 | [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | [Sequencia IJ 4](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1098.java)                        | ✅        |
 | [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) | [Soma de Ímpares Consecutivos II](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1099.java)       | ✅        |
-| [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) | Sequência de Números e Soma                |           |
+| [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) | [Sequência de Números e Soma](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1101.java)           | ✅        |
 | [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) | Crescente e Decrescente                    |           |
 | [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) | Senha Fixa                                 |           |
 | [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) | Quadrante                                  |           |
