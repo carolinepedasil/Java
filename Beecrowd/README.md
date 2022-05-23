@@ -71,7 +71,7 @@
 | [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) | [Dividindo X por Y](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1116.java)                     | ✅        |
 | [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) | [Validação de Nota](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1117.java)                     | ✅        |
 | [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) | [Várias Notas Com Validação](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1118.java)            | ✅        |
-| [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) | Grenais                                    |           |
+| [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) | [Grenais](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1131.java)                               | ✅        |
 | [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) | Múltiplos de 13                            |           |
 | [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) | Resto da Divisão                           |           |
 | [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) | Tipo de Combustível                        |           |
