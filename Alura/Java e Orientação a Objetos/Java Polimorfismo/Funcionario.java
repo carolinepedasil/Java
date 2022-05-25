@@ -1,11 +1,18 @@
 public class Funcionario {
 	
+	// Atributos normalmente são privados
 	private String nome;
 	private String cpf;
 	private double salario;
 	
+	// Construtor: não retorna nada (não retorna class/double/etc)
+	public Funcionario() {
+		
+	}
+	
+	// Método:
 	public double getBonificacao() {
-		return this.salario * 0.1;
+		return this.salario * 0.1; // 10%
 	}
 	
 	public String getNome() {
