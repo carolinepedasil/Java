@@ -11,7 +11,7 @@ import java.util.Scanner;
     Imprima todos os valores conforme exemplo abaixo, sempre em ordem crescente.
 */
 
-public class Main {
+public class URI1133 {
  
     public static void main(String[] args) throws IOException {
  
