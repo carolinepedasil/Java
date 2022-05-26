@@ -15,6 +15,7 @@ public class Funcionario {
 		return this.salario * 0.1; // 10%
 	}
 	
+	// Getters and Setters
 	public String getNome() {
 		return nome;
 	}
