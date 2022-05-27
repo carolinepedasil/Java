@@ -74,7 +74,7 @@
 | [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) | [Grenais](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1131.java)                               | ✅        |
 | [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) | [Múltiplos de 13](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1132.java)                       | ✅        |
 | [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) | [Resto da Divisão](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1133.java)                      | ✅        |
-| [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) | Tipo de Combustível                        |           |
+| [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) | [Tipo de Combustível](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1134.java)                   | ✅        |
 | [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) | PUM                                        |           |
 | [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) | Quadrado e ao Cubo                         |           |
 | [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | Sequência Lógica                           |           |
