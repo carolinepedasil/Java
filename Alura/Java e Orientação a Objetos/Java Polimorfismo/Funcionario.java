@@ -3,7 +3,7 @@ public class Funcionario {
 	// Atributos normalmente são privados
 	private String nome;
 	private String cpf;
-	private double salario;
+	protected double salario; // protected está entre private e public - é publico para os filhos, e para o resto é privado
 	
 	// Construtor: não retorna nada (não retorna class/double/etc)
 	public Funcionario() {
