@@ -7,13 +7,24 @@ public class Product {
 	public double price;
 	public int quantity;
 	
+	// Construtor Padrão - Sobrecarga a mais - Inclui manualmente
+	public Product() {
+	}
+	
 	// Construtor:
-	public Product(String name, double price, int quantity) {
+	public Product(String name, double price, int quantity) { // Parâmetros
 		this.name = name;
 		this.price = price;
 		this.quantity = quantity;
 	}
 
+	//		SOBRECARGA
+	public Product(String name, double price) {
+		this.name = name;
+		this.price = price;
+		quantity = 0; // essa linha é opcional - o this também, pois ele foi retirado do parâmetro
+	}
+	
 	// Métodos:
 	public double totalValueInStock() {
 		return price * quantity;
