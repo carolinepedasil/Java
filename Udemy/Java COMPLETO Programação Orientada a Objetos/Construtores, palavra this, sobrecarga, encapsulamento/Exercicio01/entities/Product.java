@@ -3,9 +3,9 @@ package entities;
 public class Product {
 
 	// Atributos:
-	public String name;
-	public double price;
-	public int quantity;
+	private String name;
+	private double price;
+	private int quantity;
 	
 	// Construtor Padrão - Sobrecarga a mais - Inclui manualmente
 	public Product() {
@@ -26,6 +26,26 @@ public class Product {
 	}
 	
 	// Métodos:
+	public String getName() {
+		return name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public double getPrice() {
+		return price;
+	}
+	
+	public void setPrice(double price) {
+		this.price = price;
+	}
+	
+	public int getQuantity() { // Não vai ser criada o setQuantity() para proteger o objeto-produto de alterações inconsistentes na quantidade dele - A quantidade do produto só pode ser alterada por meio das operações: entrada e saída do estoque
+		return quantity;
+	}
+	
 	public double totalValueInStock() {
 		return price * quantity;
 	}
