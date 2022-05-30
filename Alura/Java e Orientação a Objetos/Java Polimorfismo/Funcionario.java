@@ -3,7 +3,8 @@ public class Funcionario {
 	// Atributos normalmente são privados
 	private String nome;
 	private String cpf;
-	protected double salario; // protected está entre private e public - é publico para os filhos, e para o resto é privado
+	private double salario; 
+	// OBS: protected está entre private e public - é publico para os filhos, e para o resto é privado
 	
 	// Construtor: não retorna nada (não retorna class/double/etc)
 	public Funcionario() {
@@ -12,7 +13,7 @@ public class Funcionario {
 	
 	// Método:
 	public double getBonificacao() {
-		return this.salario * 0.1; // 10%
+		return this.salario * 0.05; // 5%
 	}
 	
 	// Getters and Setters
