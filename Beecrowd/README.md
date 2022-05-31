@@ -78,7 +78,7 @@
 | [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) | [PUM](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1142.java)                                   | ✅        |
 | [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) | [Quadrado e ao Cubo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1143.java)                    | ✅        |
 | [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1144.java)                      | ✅        |
-| [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) | Sequência Lógica 2                         |           |
+| [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) | [Sequência Lógica 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1145.java)                    | ✅        |
 | [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) | Sequências Crescentes                      |           |
 | [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) | Somando Inteiros Consecutivos              |           |
 | [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) | Ultrapassando Z                            |           |
