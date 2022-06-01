@@ -80,7 +80,7 @@
 | [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1144.java)                      | ✅        |
 | [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) | [Sequência Lógica 2](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1145.java)                    | ✅        |
 | [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) | [Sequências Crescentes](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1146.java)                 | ✅        |
-| [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) | Somando Inteiros Consecutivos              |           |
+| [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) | [Somando Inteiros Consecutivos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1149.java)         | ✅        |
 | [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) | Ultrapassando Z                            |           |
 | [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) | Fibonacci Fácil                            |           |
 | [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) | Fatorial Simples                           |           |
