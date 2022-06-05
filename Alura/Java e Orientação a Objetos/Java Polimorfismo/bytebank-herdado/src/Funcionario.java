@@ -1,4 +1,4 @@
-public class Funcionario {
+public abstract class Funcionario { // abstract = herança
 	
 	// Atributos normalmente são privados
 	private String nome;
