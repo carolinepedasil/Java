@@ -1,3 +1,4 @@
+// Não pode instanciar essa classe porque ela é abstrata
 public abstract class Funcionario { // abstract = herança
 	
 	// Atributos normalmente são privados
@@ -11,10 +12,8 @@ public abstract class Funcionario { // abstract = herança
 		
 	}
 	
-	// Método:
-	public double getBonificacao() {
-		return this.salario * 0.05; // 5%
-	}
+	// Método sem corpo, não há implementação
+	public abstract double getBonificacao();
 	
 	// Getters and Setters
 	public String getNome() {
