@@ -3,21 +3,35 @@ package learnprogrammingacademy.learning;
 public class Demo {
 
     static int lives = 3; // mutable (changeable)
-    static String playerName = "Caroline";
-    static boolean gameOver; // false by default
+    static int score; // 0 by default
+    static int coinCount = 90;
 
-    static final int LEVEL_COUNT = 4; // immutable (not changeable)
+    static int itemCount = 24;
+    static int itemsPerPage = 5;
 
     public static void main(String[] args) {
-        System.out.println("player " + playerName + " has " + lives + " lives left");
+        System.out.println("score= " + score);
 
-        lives += 2; // lives = lives + 2;
-        playerName = playerName + " " + "Silva";
-        System.out.println("player " + playerName + " has " + lives + " lives left");
-        System.out.println("gameOver= " + gameOver);
+        score += 10; // score = score + 10;
+        System.out.println("score= " + score + " lives= " + lives);
 
-        System.out.println("player " + playerName + " needs to complete " + LEVEL_COUNT + " levels");
-        gameOver = true;
-        System.out.println("gameOver= " + gameOver);
+        lives--; // lives = lives - 1; // lives -= 1;
+        System.out.println("score= " + score + " lives= " + lives);
+
+        score *= 2; // score = score * 2;
+        System.out.println("score= " + score + " lives= " + lives);
+
+        score /= 2; // score = score / 2;
+        System.out.println("score= " + score + " lives= " + lives);
+
+        coinCount += 40; // coinCount = coinCount + 40; // 90 + 40 = 130
+        System.out.println("coinCount= " + coinCount);
+
+        coinCount = coinCount % 100; // 130 / 100 = 1 -> 130 - 1 * 100 = 130 - 100 = 30
+        System.out.println("coinCount= " + coinCount);
+
+        //calculating remaining Items
+        int remainingItems = itemCount % itemsPerPage;
+        System.out.println("remainingItems= " + remainingItems);
     }
 }
