@@ -86,7 +86,7 @@
 | [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) | [Fatorial Simples](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1153.java)                      | ✅        |
 | [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) | [Idades](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1154.java)                                | ✅        |
 | [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) | [Sequência S](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1155.java)                           | ✅        |
-| [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) | Sequência S II                             |           |
+| [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) | [Sequência S II](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1156.java)                        | ✅        |
 | [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) | Divisores I                                |           |			
 | [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | Soma de Ímpares Consecutivos III           |           |
 | [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | Soma de Pares Consecutivos                 |           |
