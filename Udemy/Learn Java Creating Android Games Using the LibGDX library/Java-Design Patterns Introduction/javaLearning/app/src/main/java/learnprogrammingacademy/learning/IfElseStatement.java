@@ -1,6 +1,6 @@
 package learnprogrammingacademy.learning;
 
-public class Demo {
+public class IfElseStatement {
 
     static int lives = 3; // mutable (changeable)
     static int score; // 0 by default
