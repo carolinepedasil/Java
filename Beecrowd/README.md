@@ -88,7 +88,7 @@
 | [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) | [Sequência S](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1155.java)                           | ✅        |
 | [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) | [Sequência S II](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1156.java)                        | ✅        |
 | [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) | [Divisores I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1156.java)                           | ✅        |		
-| [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | Soma de Ímpares Consecutivos III           |           |
+| [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | [Soma de Ímpares Consecutivos III](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1157.java)      | ✅        |	
 | [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | Soma de Pares Consecutivos                 |           |
 | [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) | Crescimento Populacional                   |           |
 | [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | Número Perfeito                            |           |
