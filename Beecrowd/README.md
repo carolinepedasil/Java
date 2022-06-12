@@ -91,7 +91,7 @@
 | [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | [Soma de Ímpares Consecutivos III](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1157.java)      | ✅        |	
 | [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | [Soma de Pares Consecutivos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1159.java)            | ✅        |	
 | [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) | Crescimento Populacional                   |           |
-| [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | Número Perfeito                            |           |
+| [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | [Número Perfeito](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1164.java)                       | ✅        |	
 | [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) | Número Primo                               |           |
 | [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) | Substituição em Vetor I                    |           |
 | [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) | Preenchimento de Vetor I                   |           |
