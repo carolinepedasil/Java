@@ -2,6 +2,8 @@ public class TesteFuncionario {
 	
 	public static void main(String[] args) {
 		
+		Cliente cliente = new Cliente();
+		
 		Gerente carol = new Gerente();
 		carol.setNome("Caroline");
 		carol.setCpf("123456789-10");

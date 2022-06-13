@@ -1,4 +1,4 @@
-public abstract class FuncionarioAutenticavel extends Funcionario {
+public abstract class Autenticavel {
 
 	// Atributos:
 	private int senha;
