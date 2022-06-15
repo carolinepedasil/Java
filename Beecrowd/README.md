@@ -87,14 +87,14 @@
 | [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) | [Idades](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1154.java)                                | ✅        |
 | [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) | [Sequência S](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1155.java)                           | ✅        |
 | [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) | [Sequência S II](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1156.java)                        | ✅        |
-| [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) | [Divisores I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1156.java)                           | ✅        |		
-| [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | [Soma de Ímpares Consecutivos III](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1157.java)      | ✅        |	
+| [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) | [Divisores I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1157.java)                           | ✅        |		
+| [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | [Soma de Ímpares Consecutivos III](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1158.java)      | ✅        |	
 | [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | [Soma de Pares Consecutivos](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1159.java)            | ✅        |	
 | [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) | Crescimento Populacional                   |           |
 | [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | [Número Perfeito](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1164.java)                       | ✅        |	
 | [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) | [Número Primo](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1165.java)                          | ✅        |	
-| [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) | [Substituição em Vetor I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1166.java)               | ✅        |	
-| [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) | Preenchimento de Vetor I                   |           |
+| [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) | [Substituição em Vetor I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1172.java)               | ✅        |	
+| [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) | [Preenchimento de Vetor I](https://github.com/carolinepedasil/Java/blob/master/Beecrowd/URI1173.java)              | ✅        |	
 | [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) | Seleçao em Vetor I                         |           |
 | [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) | Troca em Vetor I                           |           |
 | [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) | Fibonacci em Vetor                         |           |
