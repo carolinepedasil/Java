@@ -1,9 +1,9 @@
 |               Formação                |                                 Curso                                  | Carga Horária | Conclusão |
 | ------------------------------------- | ---------------------------------------------------------------------- | ------------- | --------- |
 | Certificação Java                     |                                                                        |               |           |
-|                                       | [Certificação Java SE 7 Programmer I: O básico de Java](https://github.com/carolinepedasil/Java/tree/master/Alura/Certificação%20Java/Certificação%20Java%20SE%207%20Programmer%20I:%20O%20básico%20de%20Java) | 8h            | ✅        |
-|                                       | [Certificação Java SE 7 Programmer I: Tipos de Dados](https://github.com/carolinepedasil/Java/tree/master/Alura/Certificação%20Java/Certificação%20Java%20SE%207%20Programmer%20I:%20Tipos%20de%20Dados)       | 8h            | ✅        |
-|                                       | [Certificação Java SE 7 Programmer I: Operadores](https://github.com/carolinepedasil/Java/tree/master/Alura/Certificação%20Java/Certificação%20Java%20SE%207%20Programmer%20I:%20Operadores)                   | 8h            | ✅        |
+|                                       | [Certificação Java SE 7 Programmer I: O básico de Java](https://github.com/carolinepedasil/Java/tree/master/Alura/Certificação%20Java/Certificação%20Java%20SE%207%20Programmer%20I:%20O%20básico%20de%20Java)                | 8h            | ✅        |
+|                                       | [Certificação Java SE 7 Programmer I: Tipos de Dados](https://github.com/carolinepedasil/Java/tree/master/Alura/Certificação%20Java/Certificação%20Java%20SE%207%20Programmer%20I:%20Tipos%20de%20Dados)                      | 8h            | ✅        |
+|                                       | [Certificação Java SE 7 Programmer I: Operadores](https://github.com/carolinepedasil/Java/tree/master/Alura/Certificação%20Java/Certificação%20Java%20SE%207%20Programmer%20I:%20Operadores)                                  | 8h            | ✅        |
 |                                       | Certificação Java SE 7 Programmer I: Criando e usando Arrays           | 8h            |           |
 |                                       | Certificação Java SE 7 Programmer I: Laços                             | 8h            |           |
 |                                       | Certificação Java SE 7 Programmer I: Métodos e encapsulamento          | 8h            |           |
@@ -11,9 +11,9 @@
 |                                       | Certificação Java SE 7 Programmer I: Lidando com exceções              | 8h            |           |
 |                                       | Certificação Java SE 7 Programmer I: Conteúdo além da prova            | 10h           |           |
 | Java e Orientação a Objetos           |                                                                        |               |           |
-|                                       | [Java JRE e JDK: Escreva o seu primeiro código com Eclipse](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20JRE%20e%20JDK)                                 | 8h            | ✅        |
-|                                       | [Java OO: Introdução à Orientação a Objetos](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20OO)                                                           | 8h            | ✅        |
-|                                       | [Java Polimorfismo: Entenda herança e interfaces](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20Polimorfismo)                                            | 16h           | ✅        |
+|                                       | [Java JRE e JDK: Escreva o seu primeiro código com Eclipse](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20JRE%20e%20JDK)                                                | 8h            | ✅        |
+|                                       | [Java OO: Introdução à Orientação a Objetos](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20OO)                                                                          | 8h            | ✅        |
+|                                       | [Java Polimorfismo: Entenda herança e interfaces](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20Polimorfismo)                                                           | 16h           | ✅        |
 |                                       | Java Exceções: Aprenda a criar, lançar e controlar exceções            | 12h           |           |
 |                                       | Java e java.lang: Programe com a classe Object e String                | 12h           |           |
 |                                       | Java e java.util: Coleções, Wrappers e Lambda expressions              | 12h           |           |
@@ -24,13 +24,13 @@
 |                                       | JAX-RS e Jersey : Domine a criação de webservices REST                 | 12h           |           |
 |                                       | JAX-WS : Domine a criação de webservices SOAP                          | 16h           |           |
 |                                       | JMS e ActiveMQ: Mensageria com Java                                    | 16h           |           |
-|                                       | [Apache Camel: O framework de integração entre sistemas](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/Apache%20Camel)                                           | 16h           | ✅        |
+|                                       | [Apache Camel: O framework de integração entre sistemas](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/Apache%20Camel)                                                          | 16h           | ✅        |
 |                                       | Rest Assured: Testes automatizado de webservice                        | 12h           |           |
 | Arquitetura e Design de Projetos Java |                                                                        |               |           |
 |                                       | SOLID com Java: Princípios da programação orientada a objetos          | 8h            |           |
 |                                       | Design Patterns em Java I: Introdução às boas práticas de programação  | 8h            |           |
 |                                       | Design Patterns em Java II: Avançando nas boas práticas de programação | 6h            |           |
-|                                       | [TDD e Java: Testes automatizados com JUnit](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/TDD%20e%20Java)                                           | 8h            | ✅        |
+|                                       | [TDD e Java: Testes automatizados com JUnit](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/TDD%20e%20Java)                                                          | 8h            | ✅        |
 |                                       | Testes de Integração: Testes de SQL e DAOs automatizados em Java       | 6h            |           |
 |                                       | Selenium: Testes automatizados de aceitação em Java                    | 8h            |           |
 |                                       | BDD e Java: Behavior Driven Development com Cucumber                   | 10h           |           |
@@ -46,6 +46,6 @@
 |                                       | Spring Data JPA: Repositórios, Consultas, Projeções e Specifications   | 10h           |           |
 |                                       | Spring MVC: Crie um web app com Thymeleaf e Bootstrap                  | 12h           |           |
 |                                       | Spring MVC: Autenticação com Spring Security, API Rest e AJAX          | 10h           |           |
-|                                       | [Spring Boot API REST: Construa uma API](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Spring%20Boot%20API%20REST:%20Construa%20uma%20API)                                         | 8h            | ✅          |
-|                                       | Spring Boot API Rest: Segurança da API, Cache e Monitoramento          | 12h           |           |
+|                                       | [Spring Boot API REST: Construa uma API](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Spring%20Boot%20API%20REST:%20Construa%20uma%20API)                                                       | 8h            | ✅        |
+|                                       | [Spring Boot API Rest: Segurança da API, Cache e Monitoramento](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Spring%20Boot%20API%20Rest:%20Segurança%20da%20API%2C%20Cache%20e%20Monitoramento) | 12h           |           |
 |                                       | Spring Boot e Teste: Profiles, Testes e Deploy                         | 8h            |           |
