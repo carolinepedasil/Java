@@ -47,5 +47,5 @@
 |                                       | Spring MVC: Crie um web app com Thymeleaf e Bootstrap                  | 12h           |           |
 |                                       | Spring MVC: Autenticação com Spring Security, API Rest e AJAX          | 10h           |           |
 |                                       | [Spring Boot API REST: Construa uma API](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Spring%20Boot%20API%20REST:%20Construa%20uma%20API)                                                       | 8h            | ✅        |
-|                                       | [Spring Boot API Rest: Segurança da API, Cache e Monitoramento](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Spring%20Boot%20API%20Rest:%20Segurança%20da%20API%2C%20Cache%20e%20Monitoramento) | 12h           |           |
+|                                       | [Spring Boot API Rest: Segurança da API, Cache e Monitoramento](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Spring%20Boot%20API%20Rest:%20Segurança%20da%20API%2C%20Cache%20e%20Monitoramento) | 12h           | ✅        |
 |                                       | Spring Boot e Teste: Profiles, Testes e Deploy                         | 8h            |           |
