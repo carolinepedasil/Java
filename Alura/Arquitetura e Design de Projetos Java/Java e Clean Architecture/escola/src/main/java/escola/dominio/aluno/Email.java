@@ -1,8 +1,8 @@
-package escola;
+package escola.dominio.aluno;
 
 public class Email {
 	
-	//VALUE OBJECT = são considerados iguais, se todos os seus atributos tiverem valores iguais.
+	// VALUE OBJECT = são considerados iguais, se todos os seus atributos tiverem valores iguais.
 	
 	private String endereco;
 
