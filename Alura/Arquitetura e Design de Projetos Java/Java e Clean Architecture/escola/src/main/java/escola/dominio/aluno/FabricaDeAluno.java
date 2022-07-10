@@ -17,12 +17,5 @@ public class FabricaDeAluno {
 	public Aluno criar() {
 		return this.aluno;
 	}
-
-	public static void main(String[] agrs) {
-		FabricaDeAluno fabrica = new FabricaDeAluno();
-		Aluno aluno2 = fabrica.comNomeCPFEmail("", "", "")
-		.comTelefone("", "")
-		.comTelefone("", "")
-		.criar();
-	}
+	
 }
