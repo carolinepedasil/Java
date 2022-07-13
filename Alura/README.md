@@ -51,4 +51,4 @@
 |                                             | Spring Boot e Teste: Profiles, Testes e Deploy                         | 8h            |           |
 | Java e Microsserviços com Spring e RabbitMQ |                                                                        |               |           |
 |                                             | Microsserviços na prática: entendendo a tomada de decisões             | 8h            |           |
-|                                             | Microsserviços na prática: implementando com Java e Spring             | 10h           |           |
+|                                             | [Microsserviços na prática: implementando com Java e Spring](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Microsserviços%20com%20Spring%20e%20RabbitMQ/Microsserviços%20na%20prática:%20implementando%20com%20Java%20e%20Spring)             | 10h           |           |
