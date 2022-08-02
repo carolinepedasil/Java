@@ -1,18 +1,17 @@
 package br.com.bytebank.banco.teste.util;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import br.com.bytebank.banco.modelo.Conta;
 import br.com.bytebank.banco.modelo.ContaCorrente;
 
-public class Teste {
+public class TesteArrayList {
 
 	public static void main(String[] args) {
 		
 		// Generics
-		ArrayList<Conta> lista = new ArrayList<Conta>();
-		
-		ArrayList<String> nomes = new ArrayList<String>();
+		List<Conta> lista = new ArrayList<Conta>();
 		
 		Conta cc = new ContaCorrente(22, 11);
 		lista.add(cc);
