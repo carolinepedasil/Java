@@ -13,5 +13,18 @@ public class Aluno {
 	String dataMatricula;
 	String nomeEscola;
 	String serieMatriculado;
+	
+	// Cria os dados na memória - Sendo padrão do Java
+	public Aluno() {
+	}
+	
+	public Aluno (String nomePadrao) {
+		nome = nomePadrao;
+	}
+	
+	public Aluno (String nomePadrao, int idadePadrao) {
+		nome = nomePadrao;
+		idade = idadePadrao;
+	}
 
 }
