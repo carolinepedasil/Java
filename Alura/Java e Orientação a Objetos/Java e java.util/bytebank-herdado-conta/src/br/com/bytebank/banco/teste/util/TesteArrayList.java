@@ -11,7 +11,7 @@ public class TesteArrayList {
 	public static void main(String[] args) {
 		
 		// Generics
-		List<Conta> lista = new ArrayList<Conta>();
+		List<Conta> lista = new ArrayList<Conta>(); // thread safe
 		
 		Conta cc = new ContaCorrente(22, 11);
 		lista.add(cc);
