@@ -11,7 +11,7 @@ import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.io.Writer;
 
-public class TesteEscrita3 {
+public class TesteEscritaPrintScreamPrintWriter {
 
 	public static void main(String[] args) throws IOException {
 		
