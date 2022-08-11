@@ -8,7 +8,8 @@ public class TesteLeitura2 {
 	
 	public static void main(String[] args) throws Exception {
 		
-		Scanner scanner = new Scanner(new File("contas.csv"));
+		Scanner scanner = new Scanner(new File("contas.csv"), "UTF-8");
+		
 		while(scanner.hasNextLine()) {
 			String linha = scanner.nextLine();
 			//System.out.println(linha);
@@ -30,6 +31,7 @@ public class TesteLeitura2 {
 //			String[] valores = linha.split(",");
 //			System.out.println(valores[3]);
 		}
+		
 		scanner.close();
 		
 	}
