@@ -20,6 +20,14 @@
 |                                             | [Java e java.io: Streams, Reader e Writers](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20e%20java.io)                                | 12h           | ✅         |
 |                                             | [Java Collections: Dominando Listas, Sets e Mapas](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%20Collections)                         | 20h           |           |
 |                                             | Java moderno: Tire proveito dos novos recursos do Java 8               | 12h           |           |
+| Java                                        |                                                                        |               |           |
+|                                             | Maven: Build do zero a web                                             | 6h            |           |
+|                                             | Java Servlet: programação web Java                                     | 10h           |           |
+|                                             | Java Servlet: autenticação, autorização e o padrão MVC                 | 14h           |           |
+|                                             | Java e JPA: Persista seus objetos com a JPA2 e Hibernate               | 8h            |           |
+|                                             | Java e JPA: Pesquise com JPQL e Criteria                               | 8h            |           |
+|                                             | Spring MVC I: Criando aplicações web                                   | 20h           |           |
+|                                             | Spring MVC II: Integração, cache, segurança e templates                | 15h           |           |
 | Integração de Aplicações Java               |                                                                        |               |           |
 |                                             | JAX-RS e Jersey : Domine a criação de webservices REST                 | 12h           |           |
 |                                             | JAX-WS : Domine a criação de webservices SOAP                          | 16h           |           |
