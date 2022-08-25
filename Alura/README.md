@@ -35,7 +35,7 @@
 |                                             | [Apache Camel: O framework de integração entre sistemas](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/Apache%20Camel)                            | 16h           | ✅        |
 |                                             | Rest Assured: Testes automatizado de webservice                        | 12h           |           |
 | Arquitetura e Design de Projetos Java       |                                                                        |               |           |
-|                                             | [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/SOLID%20com%20Java)     | 8h            |           |
+|                                             | [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/SOLID%20com%20Java)     | 8h            | ✅         |
 |                                             | Design Patterns em Java I: Introdução às boas práticas de programação  | 8h            |           |
 |                                             | Design Patterns em Java II: Avançando nas boas práticas de programação | 6h            |           |
 |                                             | [TDD e Java: Testes automatizados com JUnit](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/TDD%20e%20Java)                                                          | 8h            | ✅        |

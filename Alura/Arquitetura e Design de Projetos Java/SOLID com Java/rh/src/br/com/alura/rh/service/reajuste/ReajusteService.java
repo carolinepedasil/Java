@@ -17,6 +17,12 @@ public class ReajusteService {
 		
 		this.validacoes.forEach(v -> v.validar(funcionario, aumento));
 		
+//		ValidacaoPercentualReajuste validacaoPercentualReajuste = new ValidacaoPercentualReajuste();
+//		ValidacaoPeriodicidadeEntreReajustes validacaoPeriodicidadeEntreReajustes = new ValidacaoPeriodicidadeEntreReajustes();
+//		
+//		validacaoPercentualReajuste.validar(funcionario, aumento);
+//		validacaoPeriodicidadeEntreReajustes.validar(funcionario, aumento);
+		
 		BigDecimal salarioReajustado = funcionario.getSalario().add(aumento);
 		funcionario.atualizarSalario(salarioReajustado);
 		
