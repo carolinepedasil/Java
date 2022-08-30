@@ -37,7 +37,7 @@
 | Arquitetura e Design de Projetos Java       |                                                                        |               |           |
 |                                             | [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/SOLID%20com%20Java)     | 8h            | ✅         |
 |                                             | [Design Patterns em Java I: Introdução às boas práticas de programação](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Design%20Patterns%20em%20Java%20I)  | 8h            | ✅         |
-|                                             | Design Patterns em Java II: Avançando nas boas práticas de programação | 6h            |           |
+|                                             | [Design Patterns em Java II: Avançando nas boas práticas de programação](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Design%20Patterns%20em%20Java%20II) | 6h            | ✅         |
 |                                             | [TDD e Java: Testes automatizados com JUnit](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/TDD%20e%20Java)                                                          | 8h            | ✅        |
 |                                             | Testes de Integração: Testes de SQL e DAOs automatizados em Java       | 6h            |           |
 |                                             | Selenium: Testes automatizados de aceitação em Java                    | 8h            |           |

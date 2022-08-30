@@ -12,6 +12,7 @@ public class GeraPedidoHandler {
 	
 	private List<AcaoAposGerarPedido> acoes;
 	
+	// injeção de dependências para serviços de infra
 	public GeraPedidoHandler(List<AcaoAposGerarPedido> acoes) {
 		this.acoes = acoes;
 	}
