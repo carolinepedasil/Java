@@ -10,7 +10,7 @@ public class MatricularAluno {
 	private final RepositorioDeAlunos repositorio;
 	private final PublicadorDeEventos publicador;
 
-	public MatricularAluno(RepositorioDeAlunos repositorio, PublicadorDeEventos publicador, PublicadorDeEventos publicador2) {
+	public MatricularAluno(RepositorioDeAlunos repositorio, PublicadorDeEventos publicador) {
 		this.repositorio = repositorio;
 		this.publicador = publicador;
 	}

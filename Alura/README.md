@@ -43,7 +43,7 @@
 |                                             | Selenium: Testes automatizados de aceitação em Java                    | 8h            |           |
 |                                             | BDD e Java: Behavior Driven Development com Cucumber                   | 10h           |           |
 |                                             | [Java e Clean Architecture: Descomplicando arquitetura de software](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Java%20e%20Clean%20Architecture)                  | 10h           | ✅        |
-|                                             | [Java e Domain Driven Design: Apresentando os conceitos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Java%20e%20Domain%20Driven%20Design)                 | 8h            |           |
+|                                             | [Java e Domain Driven Design: Apresentando os conceitos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Java%20e%20Domain%20Driven%20Design)                 | 8h            | ✅         |
 | Spring Framework                            |                                                                        |               |           |
 |                                             | Java Servlet: Fundamentos da programação web Java                      | 10h           |           |
 |                                             | Java Servlet: Autenticação, autorização e o padrão MVC                 | 14h           |           |

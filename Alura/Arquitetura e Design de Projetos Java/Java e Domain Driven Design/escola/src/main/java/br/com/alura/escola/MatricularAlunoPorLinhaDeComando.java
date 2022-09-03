@@ -21,7 +21,7 @@ public class MatricularAlunoPorLinhaDeComando {
 		publicador.adicionar(new LogDeAlunoMatriculado());
 		publicador.adicionar(new GeraSeloAlunoNovato(new RepositorioDeSelosEmMemoria()));
 		
-		MatricularAluno matricular = new MatricularAluno(new RepositorioDeAlunosEmMemoria(), publicador, publicador);
+		MatricularAluno matricular = new MatricularAluno(new RepositorioDeAlunosEmMemoria(), publicador);
 		
 		matricular.executa(dto);
 	}
