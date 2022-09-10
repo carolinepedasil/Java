@@ -16,6 +16,10 @@ public class LeilaoDao {
 
 	@PersistenceContext
 	private EntityManager em;
+	
+	public LeilaoDao(EntityManager em) {
+		this.em = em;
+	}
 
 	public void salvar(Leilao leilao) {
 		em.merge(leilao);
