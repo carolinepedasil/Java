@@ -46,7 +46,7 @@
 |                                             | [Java e Domain Driven Design: Apresentando os conceitos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Java%20e%20Domain%20Driven%20Design)                 | 8h            | ✅         |
 | Spring Framework                            |                                                                        |               |           |
 |                                             | [Java Servlet: Fundamentos da programação web Java](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Java%20Servlet)                      | 10h           | ✅          |
-|                                             | [Java Servlet: Autenticação, autorização e o padrão MVC](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Java%20Servlet:%20autenticação%2C%20autorização%20e%20o%20padrão%20MVC)                 | 14h           |           |
+|                                             | [Java Servlet: Autenticação, autorização e o padrão MVC](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Java%20Servlet:%20autenticação%2C%20autorização%20e%20o%20padrão%20MVC)                 | 14h           | ✅          |
 |                                             | Maven: Gerenciamento de dependências e build de aplicações Java        | 8h            |           |
 |                                             | Java e JDBC: Trabalhando com um banco de dados                         | 12h           |           |
 |                                             | Persistência com JPA: Introdução ao Hibernate                          | 8h            |           |
