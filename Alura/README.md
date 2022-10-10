@@ -49,7 +49,7 @@
 |                                             | [Java Servlet: Autenticação, autorização e o padrão MVC](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Java%20Servlet:%20autenticação%2C%20autorização%20e%20o%20padrão%20MVC)                 | 14h           | ✅          |
 |                                             | [Maven: Gerenciamento de dependências e build de aplicações Java](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Maven:%20gerenciamento%20de%20dependências%20e%20build%20de%20aplicações%20Java)        | 8h            | ✅          |
 |                                             | [Java e JDBC: Trabalhando com um banco de dados](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Java%20e%20JDBC:%20trabalhando%20com%20um%20banco%20de%20dados)                         | 12h           | ✅          |
-|                                             | Persistência com JPA: Introdução ao Hibernate                          | 8h            |           |
+|                                             | [Persistência com JPA: Introdução ao Hibernate](https://github.com/carolinepedasil/Java/tree/master/Alura/Spring%20Framework/Persistência%20com%20JPA:%20Hibernate)                          | 8h            |           |
 |                                             | Java e JPA: Consultas avançadas, performance e modelos complexos       | 10h           |           |
 |                                             | Spring Data JPA: Repositórios, Consultas, Projeções e Specifications   | 10h           |           |
 |                                             | Spring MVC: Crie um web app com Thymeleaf e Bootstrap                  | 12h           |           |
