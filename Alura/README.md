@@ -29,11 +29,9 @@
 |                                             | Spring MVC I: Criando aplicações web                                   | 20h           |           |
 |                                             | Spring MVC II: Integração, cache, segurança e templates                | 15h           |           |
 | Integração de Aplicações Java               |                                                                        |               |           |
-|                                             | JAX-RS e Jersey : Domine a criação de webservices REST                 | 12h           |           |
-|                                             | JAX-WS : Domine a criação de webservices SOAP                          | 16h           |           |
+|                                             | [JAX-WS : Domine a criação de webservices SOAP](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/JAX-WS)                          | 16h           |           |
 |                                             | JMS e ActiveMQ: Mensageria com Java                                    | 16h           |           |
 |                                             | [Apache Camel: O framework de integração entre sistemas](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/Apache%20Camel)                            | 16h           | ✅        |
-|                                             | Rest Assured: Testes automatizado de webservice                        | 12h           |           |
 | Arquitetura e Design de Projetos Java       |                                                                        |               |           |
 |                                             | [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/SOLID%20com%20Java)     | 8h            | ✅         |
 |                                             | [Design Patterns em Java I: Introdução às boas práticas de programação](https://github.com/carolinepedasil/Java/tree/master/Alura/Arquitetura%20e%20Design%20de%20Projetos%20Java/Design%20Patterns%20em%20Java%20I)  | 8h            | ✅         |
