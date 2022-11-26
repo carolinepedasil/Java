@@ -22,9 +22,7 @@
 |                                             | [Java moderno: Tire proveito dos novos recursos do Java 8](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%208)              | 12h           | ✅        |
 | Java                                        |                                                                        |               |           |
 |                                             | Maven: Build do zero a web                                             | 6h            |           |
-|                                             | Java Servlet: programação web Java                                     | 10h           |           |
-|                                             | Java Servlet: autenticação, autorização e o padrão MVC                 | 14h           |           |
-|                                             | Java e JPA: Persista seus objetos com a JPA2 e Hibernate               | 8h            |           |
+|                                             | [Java e JPA: Persista seus objetos com a JPA2 e Hibernate](https://github.com/carolinepedasil/Java/tree/master/Alura/Java)               | 8h            |           |
 |                                             | Java e JPA: Pesquise com JPQL e Criteria                               | 8h            |           |
 |                                             | Spring MVC I: Criando aplicações web                                   | 20h           |           |
 |                                             | Spring MVC II: Integração, cache, segurança e templates                | 15h           |           |
@@ -58,3 +56,5 @@
 | Java e Microsserviços com Spring e RabbitMQ |                                                                        |               |           |
 |                                             | [Microsserviços na prática: entendendo a tomada de decisões]()         | 8h            | ✅        |
 |                                             | [Microsserviços na prática: implementando com Java e Spring](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Microsserviços%20com%20Spring%20e%20RabbitMQ/Microsserviços%20na%20prática:%20implementando%20com%20Java%20e%20Spring)             | 10h           | ✅         |
+|                                             | Microsserviços na prática: IaC com CDK e deploy na AWS                           | 10h            |           |
+|                                             | Microsserviços na prática: mensageria com RabbitMQ                               | 10h            |           |
