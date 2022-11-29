@@ -22,7 +22,7 @@
 |                                             | [Java moderno: Tire proveito dos novos recursos do Java 8](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Orientação%20a%20Objetos/Java%208)              | 12h           | ✅        |
 | Java                                        |                                                                        |               |           |
 |                                             | Maven: Build do zero a web                                             | 6h            |           |
-|                                             | [Java e JPA: Persista seus objetos com a JPA2 e Hibernate](https://github.com/carolinepedasil/Java/tree/master/Alura/Java)               | 8h            |           |
+|                                             | [Java e JPA: Persista seus objetos com a JPA2 e Hibernate](https://github.com/carolinepedasil/Java/tree/master/Alura/Java)               | 8h            | ✅         |
 |                                             | Java e JPA: Pesquise com JPQL e Criteria                               | 8h            |           |
 |                                             | Spring MVC I: Criando aplicações web                                   | 20h           |           |
 |                                             | Spring MVC II: Integração, cache, segurança e templates                | 15h           |           |
