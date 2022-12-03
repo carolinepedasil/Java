@@ -23,7 +23,7 @@
 | Java                                        |                                                                        |               |           |
 |                                             | Maven: Build do zero a web                                             | 6h            |           |
 |                                             | [Java e JPA: Persista seus objetos com a JPA2 e Hibernate](https://github.com/carolinepedasil/Java/tree/master/Alura/Java)               | 8h            | ✅         |
-|                                             | [Java e JPA: Pesquise com JPQL e Criteria](https://github.com/carolinepedasil/Java/tree/master/Alura/Java/Java%20e%20JPA:%20Pesquise%20com%20JPQL%20e%20Criteria)                               | 8h            |           |
+|                                             | [Java e JPA: Pesquise com JPQL e Criteria](https://github.com/carolinepedasil/Java/tree/master/Alura/Java/Java%20e%20JPA:%20Pesquise%20com%20JPQL%20e%20Criteria)                               | 8h            | ✅         |
 |                                             | Spring MVC I: Criando aplicações web                                   | 20h           |           |
 |                                             | Spring MVC II: Integração, cache, segurança e templates                | 15h           |           |
 | Integração de Aplicações Java               |                                                                        |               |           |
