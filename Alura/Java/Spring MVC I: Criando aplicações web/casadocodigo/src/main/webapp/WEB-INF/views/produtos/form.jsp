@@ -8,16 +8,20 @@
 </head>
 <body>
 	<h1>Casa do Código</h1>
-	<table>
-	    <tr>
-	        <td>Java 8 Prático</td>
-	        <td>Certificação OCJP</td>
-	    </tr>
-	    <tr>
-	        <td>TDD na Prática - JAVA</td>
-	        <td>Google Android</td>
-	     </tr>
-
-	</table>
+	<form action="/casadocodigo/produtos" method="post">
+		<div>
+			<label>Título</label>
+			<input type="text" name="titulo" />
+		</div>
+		<div>
+	        <label>Descrição</label>
+			<textarea rows="10" cols="20" name="descricao"></textarea>
+		</div>
+		<div>
+			<label>Páginas</label>
+			<input type="text" name="paginas" />
+		</div>
+		<button type="submit">Cadastrar</button>
+	</form>
 </body>
 </html>
