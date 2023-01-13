@@ -24,7 +24,7 @@
 |                                             | [Java e JPA: Persista seus objetos com a JPA2 e Hibernate](https://github.com/carolinepedasil/Java/tree/master/Alura/Java)               | 8h            | ✅         |
 |                                             | [Java e JPA: Pesquise com JPQL e Criteria](https://github.com/carolinepedasil/Java/tree/master/Alura/Java/Java%20e%20JPA:%20Pesquise%20com%20JPQL%20e%20Criteria)                               | 8h            | ✅         |
 |                                             | [Spring MVC I: Criando aplicações web](https://github.com/carolinepedasil/Java/tree/master/Alura/Java/Spring%20MVC%20I:%20Criando%20aplicações%20web)                                   | 20h           | ✅         |
-|                                             | [Spring MVC II: Integração, cache, segurança e templates](https://github.com/carolinepedasil/Java/tree/master/Alura/Java/Spring%20MVC%20II:%20Integração%2C%20cache%2C%20segurança%20e%20templates)                | 15h           |           |
+|                                             | [Spring MVC II: Integração, cache, segurança e templates](https://github.com/carolinepedasil/Java/tree/master/Alura/Java/Spring%20MVC%20II:%20Integração%2C%20cache%2C%20segurança%20e%20templates)                | 15h           | ✅          |
 | Integração de Aplicações Java               |                                                                        |               |           |
 |                                             | [JAX-WS : Domine a criação de webservices SOAP](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/JAX-WS)                          | 16h           | ✅         |
 |                                             | [JMS e ActiveMQ: Mensageria com Java](https://github.com/carolinepedasil/Java/tree/master/Alura/Integração%20de%20Aplicações%20Java/JMS%20e%20ActiveMQ)                                    | 16h           | ✅         |
@@ -55,5 +55,3 @@
 | Java e Microsserviços com Spring e RabbitMQ |                                                                        |               |           |
 |                                             | [Microsserviços na prática: entendendo a tomada de decisões]()         | 8h            | ✅        |
 |                                             | [Microsserviços na prática: implementando com Java e Spring](https://github.com/carolinepedasil/Java/tree/master/Alura/Java%20e%20Microsserviços%20com%20Spring%20e%20RabbitMQ/Microsserviços%20na%20prática:%20implementando%20com%20Java%20e%20Spring)             | 10h           | ✅         |
-|                                             | Microsserviços na prática: IaC com CDK e deploy na AWS                           | 10h            |           |
-|                                             | Microsserviços na prática: mensageria com RabbitMQ                               | 10h            |           |
